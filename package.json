@@ -1,0 +1,14 @@
+{
+  "name": "toyrobot-simulator",
+  "version": "1.0.0",
+  "description": "Simulation of a robot moving on a table squaretop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bernardo Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
